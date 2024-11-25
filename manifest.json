@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Random Password Generator",
+    "version": "1.0",
+    "description": "Generate random, strong passwords.",
+    "action": {
+        "default_popup": "/popup.html",
+        "default_icon": "/icon.png"
+    },
+    "permissions": []
+}
